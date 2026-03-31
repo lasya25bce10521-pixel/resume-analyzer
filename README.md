@@ -1,6 +1,23 @@
 # resume-analyzer
 📄 AI Resume Analyzer
 
+This project analyzes resumes and matches them with job roles using Machine Learning.
+
+## Features
+- Upload resume (PDF)
+- Extract text
+- Job match percentage
+- Suggestions for improvement
+
+## Tech Stack
+- Python
+- Streamlit
+- Scikit-learn
+
+## How to Run
+1. Install requirements
+2. Run: streamlit run app.py
+
 📌 Project Description
 
 The AI Resume Analyzer is a machine learning-based application that analyzes resumes and matches them with suitable job roles. It extracts text from uploaded PDF resumes and compares it with predefined job descriptions to calculate a match score.
